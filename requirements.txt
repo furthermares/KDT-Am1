@@ -1,0 +1,7 @@
+streamlit
+plotly
+pickle
+openai
+sklearn
+numpy
+python==3.8
